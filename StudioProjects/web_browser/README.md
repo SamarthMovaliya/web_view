@@ -1,16 +1,3 @@
 # web_browser
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="392" alt="Screenshot 2023-01-25 at 9 22 26 PM" src="https://user-images.githubusercontent.com/121867874/214610674-9f700078-8dda-4e7d-b8a3-35ace7bcf7c9.png">
+<img width="392" alt="Screenshot 2023-01-25 at 9 22 40 PM" src="https://user-images.githubusercontent.com/121867874/214610694-06613687-ef70-4388-a5bc-2eb6ef09811c.png">
